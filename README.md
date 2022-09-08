@@ -1,5 +1,5 @@
 ## Hi there, welcome to my GitHub profile👋
-[![Xeno's stats](https://https://github-readme-stats-xenophilicy.vercel.app/api?username=xenophilicy&count_private=true&theme=tokyonight )](https://github.com/Xenophilicy)
+[![Xeno's stats](https://github-readme-stats-xenophilicy.vercel.app/api?username=xenophilicy&count_private=true&theme=tokyonight)](https://github.com/Xenophilicy)
 
 ## XenoHosts
 
